@@ -1,1 +1,0 @@
-This file should not be tracked or staged when a commit happens upon its containing folder or repository :)
